@@ -30,3 +30,4 @@ H:\Naman Project\naman-asp\obj\Debug\net8.0\refint\naman-asp.dll
 H:\Naman Project\naman-asp\obj\Debug\net8.0\naman-asp.pdb
 H:\Naman Project\naman-asp\obj\Debug\net8.0\naman-asp.genruntimeconfig.cache
 H:\Naman Project\naman-asp\obj\Debug\net8.0\ref\naman-asp.dll
+H:\Naman Project\naman-asp\obj\Debug\net8.0\naman-asp.sourcelink.json
